@@ -1,1 +1,1 @@
-web: gunicorn kawaguchi-django-app.wsgi --log-file -
+web: gunicorn sample-django.wsgi --log-file -
